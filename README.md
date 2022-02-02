@@ -42,5 +42,9 @@
 10. The bot can send a greeting to this user with `await username.send("Greetings!")`
 <img src="screenshots/hello_command.png">
 
+11. Lastly, make sure to run the bot with `bot.run(TOKEN)`
+
+<img src="screenshots/run_bot.png">
+
 ## Tutorial Credits:
 - <a href="https://www.youtube.com/watch?v=fU-kWx-OYvE">Creating a Discord Bot in Python 3.9 Tutorial (Fast & Easy) by Code Palace</a>
