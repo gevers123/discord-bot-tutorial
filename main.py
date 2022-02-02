@@ -2,7 +2,7 @@ import requests;
 import discord;
 from discord.ext import commands
 
-
+TOKEN = "paste_token_string_here"
 
 bot = commands.Bot(command_prefix='!'); # command format: !command
 
