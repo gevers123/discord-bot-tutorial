@@ -43,3 +43,4 @@
 <img src="screenshots/hello_command.png">
 
 ## Tutorial Credits:
+- <a href="https://www.youtube.com/watch?v=fU-kWx-OYvE">Creating a Discord Bot in Python 3.9 Tutorial (Fast & Easy) by Code Palace</a>
