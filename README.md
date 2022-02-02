@@ -22,6 +22,27 @@
 6. Click the Add Bot button on the right hand side and confirm that you would like to create the bot
 <img src="screenshots/add_bot_button.png">
 
+7. Go to the OAuth2 tab on the left hand menu and click on the URL Generator option
+<img src="screenshots/url_gen_tab.png">
+
+8. In the SCOPES section, check off "bot"
+<img src="screenshots/scopes_bot.png">
+
+9. In the BOT PERMISSIONS section, you can check off whatever permissions you want. For this tutorial, we will just check off all the TEXT PERMISSIONS. It is not recommended to grant the Administrator permission for security purposes.
+<img src="screenshots/text_permissions.png">
+
+10. Copy the URL generated at the bottom of the page and paste it into a separate tab in the browser
+<img src="screenshots/generated_url.png">
+
+11. Select the server you would like to add the bot to
+<img src="screenshots/select_server.png">
+
+12. Click the Authorize button at the bottom of the screen
+<img src="screenshots/authorize_button.png">
+
+13. Once you select "I am human", your Discord bot should appear in your server!
+<img src="screenshots/bot_in_server.png">
+
 ## Using Python:
 1. Install the Python Discord package with `pip install discord`
 2. In a new Python file, import the Discord package and include the Commands module with `from discord.ext import commands`
